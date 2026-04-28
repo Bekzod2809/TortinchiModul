@@ -1,0 +1,19 @@
+[
+  {
+    "Id": 6245363005,
+    "IsBot": false,
+    "FirstName": "Xasanov",
+    "LastName": null,
+    "Username": "xasanov_bekzod09",
+    "LanguageCode": "ru",
+    "IsPremium": true,
+    "AddedToAttachmentMenu": false,
+    "CanJoinGroups": false,
+    "CanReadAllGroupMessages": false,
+    "SupportsInlineQueries": false,
+    "CanConnectToBusiness": false,
+    "HasMainWebApp": false,
+    "HasTopicsEnabled": false,
+    "AllowsUsersToCreateTopics": false
+  }
+]
